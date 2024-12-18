@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tau-Cannon (BM Design) Modeling for Game HW
+* source:	https://sketchfab.com/3d-models/tau-cannon-bm-design-modeling-for-game-hw-6307ecbff1dd44e2ac53cf4e591fafc2
+* author:	Dot-e (https://sketchfab.com/rockin.e26)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tau-Cannon (BM Design) Modeling for Game HW" (https://sketchfab.com/3d-models/tau-cannon-bm-design-modeling-for-game-hw-6307ecbff1dd44e2ac53cf4e591fafc2) by Dot-e (https://sketchfab.com/rockin.e26) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
